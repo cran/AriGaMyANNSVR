@@ -1,0 +1,9 @@
+26f0cee0681f5cd98b3c9c345d9c6030 *DESCRIPTION
+c387de40a29f1ae2a01e74c6b8df335c *NAMESPACE
+cad0586a15f7bd9fbbf5c0e43c7cd0bf *R/arigamyannsvr.R
+2e4d8b7f92f12f9ec92e17b3cab9974a *man/ariga.Rd
+ce28b102e002a8a20b7d38de8d9a5b85 *man/my_ann.Rd
+b7da54d1caae0174100bce9173da75a7 *man/my_svr.Rd
+8b62b6d58724ac423cb06f4a84417630 *man/series_descstat.Rd
+ec3787c8da92e1e3d81e6f896844e7c0 *man/series_nonlinearity.Rd
+c7e310c880b8e8acfce4a572a164fb7e *man/series_stationarity.Rd
